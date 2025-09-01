@@ -1,6 +1,6 @@
 {
   "name": "CD pipeline",
-  "existing_cluster_id": "your_cluster_id",
+  "existing_cluster_id": "0901-055239-o632h1j4",
   "timeout_seconds": 1200,
   "max_retries": 3,
   "notebook_task": {
